@@ -1,0 +1,8 @@
+{
+  "name": "zhixu-study-workspace",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "知序 AI 学习工作台：结构原型与分阶段开发计划",
+  "scripts": { "start": "node scripts/serve.mjs", "check": "node scripts/check.mjs" }
+}

@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Zhixu source checkout and local runtime
+.openai/
+.sites-runtime/
+
+# This buildless app keeps its source in dist
+!/dist/
+!/dist/**
